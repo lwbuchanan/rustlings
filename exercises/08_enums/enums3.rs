@@ -1,4 +1,3 @@
-use std::string;
 
 struct Point {
     x: u64,
